@@ -107,3 +107,56 @@ This website can significantly help farmers make informed decisions, potentially
 
 ## Conclusion
 This project demonstrates the potential of technology, particularly machine learning and web development, to solve real-world problems and support the agricultural community. By providing farmers with actionable insights through an accessible website, we aim to contribute to more sustainable and profitable farming practices.
+
+## Demonstration
+(If applicable, you can offer to show a live demo of the website.)
+
+
+
+## Installation
+
+### Prerequisites
+- Python
+- Flask
+- HTML, CSS
+
+### Steps
+1. Clone the repository:
+   bash
+   git clone https://github.com/GEDDAMISHWARYA/Crop_recommendation.git
+   
+2. Navigate to the project directory:
+   bash
+   cd crop-recommendation
+   
+3. Install the required Python packages:
+   bash
+   pip install -r requirements.txt
+   
+4. Start the Flask server:
+   bash
+   python app.py
+   
+
+## Usage
+1. Visit http://localhost:5000 to access the website.
+2. Input your soil and weather parameters.
+3. Receive the recommended crop based on the input data.
+
+## Contributing
+Contributions are what make the open-source community such an amazing place to be, learn, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+- Name: Gedda Ishwarya
+- Email: geddaishwarya88@gmail.com
+- Project Link: [https://github.com/GEDDAMISHWARYA/Crop_recommendation](https://github.com/GEDDAMISHWARYA/Crop_recommendation)
+
