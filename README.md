@@ -1,5 +1,5 @@
 # Crop_recommendation-
-# Crop_recommendation-
+
 # Intelligent Crop Recommendation Website
 
 Farmers often struggle to determine which crop will yield the best results given their local soil and weather conditions. Our Intelligent Crop Recommendation Website aims to assist farmers by recommending the most suitable crop for their land based on specific soil and weather parameters.
