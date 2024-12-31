@@ -156,7 +156,7 @@ Contributions are what make the open-source community such an amazing place to b
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-- Name: Gedda Ishwarya
+- Name: Geddam Ishwarya
 - Email: geddaishwarya88@gmail.com
 - Project Link: [https://github.com/GEDDAMISHWARYA/Crop_recommendation](https://github.com/GEDDAMISHWARYA/Crop_recommendation)
 
